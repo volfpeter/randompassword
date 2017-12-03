@@ -1,0 +1,41 @@
+{
+    "compileOnSave": true,
+
+    "compilerOptions": {
+        "alwaysStrict": true,
+        "baseUrl": "src",
+        "experimentalDecorators": true,
+        "forceConsistentCasingInFileNames": true,
+        "jsx": "react",
+        "moduleResolution": "node",
+        "noImplicitAny": true,
+        "noImplicitThis": true,
+        "newLine": "LF",
+        "outDir": "./build/",
+        "rootDirs": [
+            "src",
+            "spec"
+        ],
+        "sourceMap": true,
+        "strict": true,
+        "strictNullChecks": true,
+        "target": "es6",
+        "types": ["jasmine", "node"]
+    },
+
+    "include": [
+        "src/**/*",
+        "spec/**/*",
+        "typings/index.d.ts"
+    ],
+
+    "exclude": [
+        "dist",
+        "node_modules",
+        "spec/support"
+    ],
+
+    "atom": {
+        "formatOnSave": false
+    }
+}
