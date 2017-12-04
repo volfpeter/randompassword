@@ -18,6 +18,10 @@ There is an online version of this application available [here](http://htmlprevi
 
 You can also download a Firefox add-on verion from [here](https://github.com/volfpeter/randompassword/tree/master/firefox). You can install this add-on in Firefox directly by following the instructions [at this page](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Temporary_Installation_in_Firefox). Keep in mind that currently Firefox will not load temporary add-ons after a restart, you will have to reload the add-on manually.
 
+## Google Chrome extension
+
+A Google Chrome extension is also available for download [here](https://github.com/volfpeter/randompassword/tree/master/google-chrome). You can install in Chrome by going to the "chrome://extensions/" url, check the "Developer mode" checkbox at the top of the screen, click on the "Load unpacked extension..." button and select the directory that contains the extension files (manifest.json, etc.).
+
 ## License
 
 The software is open-sourced under the conditions of the MIT license.
