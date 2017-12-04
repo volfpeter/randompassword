@@ -14,6 +14,10 @@ Let's say you would like easy to remember but strong and different passwords for
 
 There is an online version of this application available [here](http://htmlpreview.github.io/?https://github.com/volfpeter/randompassword/blob/master/online/index.html).
 
+## Mozilla Firefox add-on
+
+You can also download a Firefox add-on verion from [here](https://github.com/volfpeter/randompassword/tree/master/firefox). You can install this add-on in Firefox directly by following the instructions [at this page](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Temporary_Installation_in_Firefox). Keep in mind that currently Firefox will not load temporary add-ons after a restart, you will have to reload the add-on manually.
+
 ## License
 
 The software is open-sourced under the conditions of the MIT license.
