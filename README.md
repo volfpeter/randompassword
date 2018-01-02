@@ -12,7 +12,7 @@ Let's say you would like easy to remember but strong and different passwords for
 
 ## Online version
 
-There is an online version of this application available [here](http://htmlpreview.github.io/?https://github.com/volfpeter/randompassword/blob/master/online/index.html).
+There is an online version of this application available [here](https://volfpeter.github.io/randompassword/).
 
 ## Mozilla Firefox add-on
 
