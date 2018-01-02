@@ -114,7 +114,7 @@ class RandomPassForm extends React.Component<{}, {}> {
                 <tr>
                     <td>
                         <button onClick={this.showPassword} className="execute">
-                            Show password
+                            Show&nbsp;password
                         </button>
                     </td>
                     <td>
