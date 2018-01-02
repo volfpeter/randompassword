@@ -2,6 +2,7 @@
   "name": "randompassword",
   "version": "0.1.0",
   "description": "Random password generator",
+  "homepage": "https://volfpeter.github.io/randompassword",
   "main": "./dist/bundle.js",
   "author": "Peter Volf",
   "license": "MIT",
