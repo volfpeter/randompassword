@@ -131,8 +131,8 @@ class RandomPassForm extends React.Component<{}, {}> {
                         <p>Password generator that converts a name and key pair into a <em>strong,
                         random-looking password.</em></p>
 
-                        <p>The page will <b>not send or store</b> the entered <b>data</b> in any way,
-                        <em>everything is calculated on your own machine</em>.</p>
+                        <p>The page will <b>not send or store</b> the entered <b>data</b> in any way
+                        , <em>everything is calculated on your own machine</em>.</p>
 
                         <p>For more information or for the browser extensions, visit the
                         project's <a href="https://github.com/volfpeter/randompassword">GitHub page</a>.</p>
