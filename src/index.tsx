@@ -125,6 +125,37 @@ class RandomPassForm extends React.Component<{}, {}> {
                     <td className="checkboxColumn">
                     </td>
                 </tr>
+                <tr>
+                    <td colSpan={3}>
+                        <hr />
+                        <p>Password generator that converts a name and key pair into a <em>strong,
+                        random-looking password.</em></p>
+
+                        <p>The page will <b>not send or store</b> the entered <b>data</b> in any way,
+                        <em>everything is calculated on your own machine</em>.</p>
+
+                        <p>For more information or for the browser extensions, visit the
+                        project's <a href="https://github.com/volfpeter/randompassword">GitHub page</a>.</p>
+
+                        <h4>Example</h4>
+
+                        <p>Let's say you would like easy to remember but strong and different
+                        passwords for your email, twitter and facebook accounts. First of all,
+                        you need to come up with an <em>easy to remember but not trivial key</em>
+                        that you will use for all these accounts, "may the 4th be with you" for
+                        example. Then you have come up with <em>easy to remember but not trivial
+                        names</em> for all services, say "yoda's ml", "yoda's tw" and "yoda's fb".
+                        Now you can use this tool to create different and strong passwords for
+                        each of your accounts by combining the selected names with the selected key:</p>
+
+                        <p><em>"yoda's ml"</em> with <em>"may the 4th be with you"</em> will give
+                        you <em>"v38ukjtauEHw2ap"</em> as your password for your email account.</p>
+                        <p><em>"yoda's tw"</em> with <em>"may the 4th be with you"</em> will give
+                        you <em>"wsZqn/J7wr7EOzgC"</em> as your password for your twitter account.</p>
+                        <p>Finally, <em>"yoda's fb"</em> with <em>"may the 4th be with you"</em> will
+                        give you <em>"nr4fffTJj7OjH"</em> as your password for your facebook account.</p>
+                    </td>
+                </tr>
             </tbody></table>
         );
     }
